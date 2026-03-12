@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(d:/www/git/app.akipress.org/sportapp/API.md:*)"
+    ]
+  }
+}
